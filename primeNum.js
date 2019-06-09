@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Ctesibius Machine</title>
+<title>Prime Numbers</title>
 </head>
 <body>
 <script>
